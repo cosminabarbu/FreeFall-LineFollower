@@ -20,6 +20,13 @@ We started by mounting the ball caster and the QTR sensor with their screws in t
 
 After making sure that all of the mechanical aspects were perfected, we gave life to our car by adding small details that would make it stand out.
 
-# Free Fall Team 
-Dream teammates : [Anca Oprea](https://github.com/AncaaO) and [Radu Nedelcu](https://github.com/Pepi100).
+<p align="center">
+  <img src="photos/setup.jpeg" width="350" title="the beast">
+</p>
 
+# Free Fall Team 
+I teamed up with [Anca Oprea](https://github.com/AncaaO) and [Radu Nedelcu](https://github.com/Pepi100).
+
+<p align="center">
+  <img src="photos/dreamteam.jpeg" width="350" title="Dream team">
+</p>
