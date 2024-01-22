@@ -30,7 +30,7 @@ You can see our car racing [here](https://www.youtube.com/watch?v=PBthNTN-ukI) .
 PS: in the video above our car was still shaking with emotion as it was recorder right after our actual presentation where our best time was 18.6 (when we were too excited to remeber we had to record it) .
 
 ## Free Fall Team 🤝
-Brought to you by  [Anca Oprea](https://github.com/AncaaO) and [Radu Nedelcu](https://github.com/Pepi100).
+Brought to you by  [Anca Oprea](https://github.com/AncaaO) and [Radu Nedelcu](https://github.com/Pepi100), and me. 🤭
 
 <p align="center">
   <img src="photos/dreamteam.jpeg" width="350" title="Dream team">
