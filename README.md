@@ -24,6 +24,11 @@ After making sure that all of the mechanical aspects were perfected, we gave lif
   <img src="photos/setup.jpeg" width="350" title="the beast">
 </p>
 
+# Course video
+
+You can see our car racing [here](https://www.youtube.com/watch?v=PBthNTN-ukI) . 
+
+
 # Free Fall Team 
 I teamed up with [Anca Oprea](https://github.com/AncaaO) and [Radu Nedelcu](https://github.com/Pepi100).
 
